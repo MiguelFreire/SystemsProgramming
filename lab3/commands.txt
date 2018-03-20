@@ -1,0 +1,4 @@
+cat /etc/passwd
+whoami
+uname
+whoami
