@@ -1,5 +1,5 @@
-#ifndef MATRIX_H
-#define MATRIX_H
+#ifndef CLIPBOARD_H
+#define CLIPBOARD_H
 
 #define INBOUND_FIFO "INBOUND_FIFO"
 #define OUTBOUND_FIFO "OUTBOUND_FIFO"
